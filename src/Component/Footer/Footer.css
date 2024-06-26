@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.mt-40 {
+    margin-top: 40px;
+}
+.footer {
+    background: #333;
+    width: 100%;
+    padding: 0;
+    float: left;
+}
+.item_f1 {
+    margin-left: 35px;
+    padding-top: 30px;
+}
+.item_f1 a {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    padding-right: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+.footer_bottom {
+    margin-top: 30px;
+    padding: 20px 0;
+    border-top: 1px solid #454545;
+}
+.footer_logo img {
+    width: 30px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+.fotb_left li {
+    display: inline-block;
+    vertical-align: middle;
+}
+.fotb_left p {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    color: #f7f7f7;
+    text-align: left;
+    line-height: 24px;
+}
+.edu_social_links {
+    text-align: right;
+    margin-right: 191px;
+}
+.edu_social_links a {
+    padding-top: 10px;
+    padding-left: 15px;
+    font-size: 16px;
+    display: inline-block;
+    color: #f7f7f7;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
