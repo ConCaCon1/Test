@@ -7,7 +7,8 @@ export default function StudentCourses() {
       <div className="row">
         <div className="col-lg-12">
           <h2 className="st_title">
-            <i class="fas fa-book"></i>
+            
+            <i className="fas fa-book"></i>
             Purchased Courses
           </h2>
         </div>
@@ -48,13 +49,13 @@ export default function StudentCourses() {
                     <td>25 March 2020</td>
                     <td>
                       <a href="/" title="Download" className="gray-s">
-                        <i class="fas fa-download"></i>
+                        <i className="fas fa-download"></i>
                       </a>
                       <a href="/" title="Delete" className="gray-s">
-                        <i class="fas fa-trash-alt"></i>
+                        <i className="fas fa-trash-alt"></i>
                       </a>
                       <a href="/" title="Print" className="gray-s">
-                        <i class="fas fa-print"></i>
+                        <i className="fas fa-print"></i>
                       </a>
                     </td>
                   </tr>
@@ -74,13 +75,13 @@ export default function StudentCourses() {
                     <td>20 March 2020</td>
                     <td>
                       <a href="/" title="Download" className="gray-s">
-                        <i class="fas fa-download"></i>
+                        <i className="fas fa-download"></i>
                       </a>
                       <a href="/" title="Delete" className="gray-s">
-                        <i class="fas fa-trash-alt"></i>
+                        <i className="fas fa-trash-alt"></i>
                       </a>
                       <a href="/" title="Print" className="gray-s">
-                        <i class="fas fa-print"></i>
+                        <i className="fas fa-print"></i>
                       </a>
                     </td>
                   </tr>

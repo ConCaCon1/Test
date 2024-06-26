@@ -50,13 +50,10 @@ export default function StudenDashboard() {
       <div className="row">
         <div className="col-xl-4 col-lg-6 col-md-6">
           <div className="section3125 mt-50">
-           
-              <h4 className="item_title">News</h4>
-              
-            
+            <h4 className="item_title">News</h4>
             <div className="item">
               <div className="fcrse_1">
-                <a href="#" className="fcrse_img">
+                <a href="/" className="fcrse_img">
                   <img
                     src="https://gambolthemes.net/html-items/cursus-new-demo/images/courses/news-1.jpg"
                     alt=""
@@ -64,7 +61,7 @@ export default function StudenDashboard() {
                 </a>
 
                 <div className="fcrse_content">
-                  <a href="#" className="crsedt145 mt-15">
+                  <a href="/" className="crsedt145 mt-15">
                     COVID-19 Updates & Resources
                   </a>
                   <p className="news_des45">
@@ -73,7 +70,7 @@ export default function StudenDashboard() {
                     support resources
                   </p>
                   <div className="auth1lnkprce">
-                    <a href="#" className="cr1fot50">
+                    <a href="/" className="cr1fot50">
                       Learn More
                     </a>
                   </div>
@@ -89,13 +86,13 @@ export default function StudenDashboard() {
           <div className="la5lo1">
             <div className="fcrse_1">
               <div className="fcrse_content">
-                <a href="#" className="new_links10">
+                <a href="/" className="new_links10">
                   Improved performance on Studio Dashboard
                 </a>
-                <a href="#" className="new_links10">
+                <a href="/" className="new_links10">
                   See more Dashboard updates
                 </a>
-                <a href="#" className="new_links10">
+                <a href="/" className="new_links10">
                   See issues-at-glance for Live
                 </a>
               </div>

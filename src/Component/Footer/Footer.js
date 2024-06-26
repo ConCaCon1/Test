@@ -20,7 +20,7 @@ export default function Footer() {
                   <ul className="fotb_left">
                     <li>
                     <a href="index.html">
-												<div class="footer_logo">
+												<div className="footer_logo">
 													<img src="https://gambolthemes.net/html-items/cursus-new-demo/images/logo1.svg" alt=""></img>
 												</div>
 											</a>
@@ -36,26 +36,26 @@ export default function Footer() {
                 </div>
                 <div className="col-md-6">
                 <div className="edu_social_links">
-                <a href="#">
-                <i class="fab fa-facebook-f"></i>
+                <a href="/">
+                <i className="fab fa-facebook-f"></i>
                 </a>
-                <a href="#">
-                <i class="fab fa-twitter"></i>
+                <a href="/">
+                <i className="fab fa-twitter"></i>
                 </a>
-                <a href="#">
-                <i class="fab fa-google-plus-g"></i>
+                <a href="/">
+                <i className="fab fa-google-plus-g"></i>
                 </a>
-                <a href="#">
-                <i class="fab fa-linkedin-in"></i>
+                <a href="/">
+                <i className="fab fa-linkedin-in"></i>
                 </a>
-                <a href="#">
-                <i class="fab fa-instagram"></i>
+                <a href="/">
+                <i className="fab fa-instagram"></i>
                 </a>
-                <a href="#">
-                <i class="fab fa-youtube"></i>
+                <a href="/">
+                <i className="fab fa-youtube"></i>
                 </a>
-                <a href="#">
-                <i class="fab fa-pinterest-p"></i>
+                <a href="/">
+                <i className="fab fa-pinterest-p"></i>
                 </a>
 
                 </div>

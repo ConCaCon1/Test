@@ -8,7 +8,7 @@ export default function Notification() {
       <div className="row">
         <div className="col-lg-12">
           <h2 className="st_title1">
-            <i class="fa-regular fa-bell"></i>
+            <i className="fa-regular fa-bell"></i>
             Notification
           </h2>
         </div>
@@ -49,7 +49,7 @@ export default function Notification() {
                     <span className="crse_bl"> Full Stack PHP Developer</span>.
 
                     </p>
-                    <span class="nm_time">12 min ago</span>
+                    <span className="nm_time">12 min ago</span>
                   </div>
                 
                 </div>
@@ -69,7 +69,7 @@ export default function Notification() {
                   <p className="noti__text5">
                   Your Membership Activated.
                   </p>
-                  <span class="nm_time">20 min ago</span>
+                  <span className="nm_time">20 min ago</span>
                 </div>
               </div>
             </div>
@@ -82,9 +82,9 @@ export default function Notification() {
                 <div className="pd_content">
                     <p className="noti__text5">
                     You buy a new course. 
-                    <a href="/" class="crse_bl"> How to create sidebar menu</a>
+                    <a href="/" className="crse_bl"> How to create sidebar menu</a>
                     </p>
-                    <span class="nm_time">20 min ago</span>
+                    <span className="nm_time">20 min ago</span>
                 </div>
               </div>
             </div>
